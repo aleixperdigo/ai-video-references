@@ -38,7 +38,6 @@
     {
       "id": "junkyard-king-ep1",
       "youtubeId": "hR5SLjOsnj4",
-      "scifiFantasy": true,
       "cartoon": true,
       "title": "Junkyard King — EP1: \"Training Day\"",
       "director": "Henry Daubrez",
@@ -141,6 +140,7 @@
     {
       "id": "zephyr-ep1-higgsfield",
       "youtubeId": "LQ-vSa9_H98",
+      "scifiFantasy": true,
       "title": "Zephyr — Episode 1",
       "director": "Higgsfield AI",
       "tool": "Higgsfield",

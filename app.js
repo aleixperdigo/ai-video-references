@@ -16,9 +16,9 @@
     query: "",
     sortMode: "date", // "date" | "likes"
     sortDir: "desc", // desc = más nuevo primero (lo último, arriba)
-    hideScifi: true, // por defecto sci-fi / fantasy EXCLUIDO (OUT)
-    hideCartoon: true, // por defecto cartoon EXCLUIDO (OUT)
-    hideAds: false, // por defecto ads INCLUIDOS (IN)
+    hideScifi: false, // por defecto TODO INCLUIDO (IN)
+    hideCartoon: false,
+    hideAds: false,
     cols: 2, // referencias por fila (1 / 2 / 4)
     filtered: [],
     rendered: 0,
