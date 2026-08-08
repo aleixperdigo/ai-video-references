@@ -17,6 +17,24 @@
   ],
   "videos": [
     {
+      "id": "pomegranate-zacklondon",
+      "youtubeId": "fyZhC2TXgcs",
+      "scifiFantasy": true,
+      "title": "Pomegranate — Sci-Fi Short Film",
+      "director": "Zack London",
+      "tool": "TBD",
+      "date": "2026-07-22",
+      "categories": [
+        "Narrative",
+        "Worldbuilding",
+        "Character consistency",
+        "Aesthetics / Art"
+      ],
+      "highlight": "28-minute short produced with Fable Studio",
+      "description": "After centuries of simulated wars, wives and wonders, a jaded aristocrat visits his neighborhood dreamspool dealer looking for something that still feels real. Written and directed by Zack London. Produced by Gossip Goblin + Fable Studio (Edward Saatchi). Animation lead: Alexandru Mihai. Models: TBD.",
+      "source": "https://www.youtube.com/watch?v=fyZhC2TXgcs"
+    },
+    {
       "id": "nexus-kafar",
       "youtubeId": "MsREdHXtdWM",
       "scifiFantasy": true,
